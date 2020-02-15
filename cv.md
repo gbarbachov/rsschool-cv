@@ -17,6 +17,9 @@ Frameworks: Django, React
 Platforms: macOS, Linux, Windows, iOS, Android  
 Tools: Git. 
 
+## Languages
+English (highly proficient), Russian (native speaker)
+
 
 
 
