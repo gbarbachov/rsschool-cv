@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    margin: 5;
+    padding: 10;
+    line-height: initial;
+  }
+
+body {
+    min-width: 320px;
+    font-family: "Arial", sans-serif;
+    max-width: 1024px;
+    margin: 0 auto;
+
+  }
+
+header {
+    display: flex;
+    
+    
+    background-color: cornflowerblue;
+    max-height: 260px;
+}
+
+main {
+
+}
+
+footer {
+    background-color: cornflowerblue;
+    min-height: 20px;
+}
+
+
+
+.photo {
+    max-height: 230px;
+    border-radius: 20%;
+  }
+
+  .contact {
+      color: white;
+  }
+
